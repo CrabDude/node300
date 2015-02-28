@@ -1,0 +1,5 @@
+{
+  "experimental": true,
+  "blacklist": ["es6.blockScoping"],
+  "optional": ["bluebirdCoroutines"]
+}
